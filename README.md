@@ -4,8 +4,9 @@
 ## @Author: Timothy Lam
 
 ###### Covid-19 simulator
-![Coivid-19 simulator](covid19simulator.jpg)
+![Coivid-19 simulator](image/covid19simulator.jpg)
 
 ###### Demo
 [Youtube Link](https://www.youtube.com/watch?v=rpRrHhlFJUg&feature=youtu.be)
 
+![](video/covid19simulator.mp4)
