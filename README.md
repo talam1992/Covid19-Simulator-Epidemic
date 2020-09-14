@@ -9,4 +9,4 @@
 ###### Demo
 [Youtube Link](https://www.youtube.com/watch?v=rpRrHhlFJUg&feature=youtu.be)
 
-![](video/covid19simulator.gif)
+![](output/covid19simulator.gif)
