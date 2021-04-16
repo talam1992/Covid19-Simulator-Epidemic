@@ -7,6 +7,6 @@
 ![Coivid-19 simulator](image/covid19simulator.jpg)
 
 ###### Demo
-[Youtube Link][<img src="https://youtube.com/vi/rpRrHhlFJUg/maxresdefault.jpg" width="100%">](https://youtu.be/rpRrHhlFJUg)
+[Youtube Link][<img src="youtube.com/vi/rpRrHhlFJUg/maxresdefault.jpg" width="100%">](https://youtu.be/rpRrHhlFJUg)
 
 ![](output/covid19simulator.gif)
